@@ -1,0 +1,44 @@
+.press{
+    background:#00ff18a4;
+    border-radius:2px;
+    padding: 10px;
+    margin:10px;
+}
+.press:hover{
+    background:#0042ff8a;
+    text-decoration:none;
+}
+li:nth-child(2){
+    font-style:italic;
+}
+.service{
+    background:#0018ff28;
+    border-radius:3px;
+    border:3px solid #ff152a;
+    padding:12px;
+    margin:12px;
+}
+.plan{
+    background:#e11313bc;
+    border:3px dotted #0016e1bc;
+    border-radius:3px;
+    padding: 10px;
+    margin: 10px;
+    text-align:left;
+}
+.testimonial{
+    background:#0018ff28;
+    border:3px solid #0016e1bc;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 10px;
+    text-align:left;
+} 
+header{
+    background:#0a0c1de8;
+    color:lightgray;
+}
+body{
+    background:#e19e4b24;
+    font-family: sans-serif;
+  }
